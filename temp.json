@@ -1,0 +1,52 @@
+{
+  "hands": "[Q♠, 3♦]",
+  "position": "UTG",
+  "style": "Maniac",
+  "chips": 10000,
+  "current_bet": 0,
+  "round": "fre flop",
+  "another_players_action": [
+    {
+      "position": "BTN",
+      "last_action": "Wait",
+      "chips": 10000,
+      "current_bet": 0
+    },
+    {
+      "position": "SB",
+      "last_action": "Wait",
+      "chips": 9900,
+      "current_bet": 100
+    },
+    {
+      "position": "BB",
+      "last_action": "Wait",
+      "chips": 9800,
+      "current_bet": 200
+    },
+    {
+      "position": "MP1",
+      "last_action": "Wait",
+      "chips": 10000,
+      "current_bet": 0
+    },
+    {
+      "position": "MP2",
+      "last_action": "Wait",
+      "chips": 10000,
+      "current_bet": 0
+    },
+    {
+      "position": "HJ",
+      "last_action": "Wait",
+      "chips": 10000,
+      "current_bet": 0
+    },
+    {
+      "position": "CO",
+      "last_action": "Wait",
+      "chips": 10000,
+      "current_bet": 0
+    }
+  ]
+}

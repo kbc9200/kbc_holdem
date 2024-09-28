@@ -1,0 +1,19 @@
+my_project/
+├── application/
+│   ├── services.py           # 애플리케이션 서비스
+│   ├── commands.py           # 명령 처리
+│   └── queries.py            # 조회 로직
+├── domain/
+│   ├── model/
+│   │   ├── entity.py         # 엔티티 정의
+│   │   ├── value_object.py   # 값 객체 정의
+│   │   ├── aggregate.py      # 애그리게이트 정의
+│   └── services.py           # 도메인 서비스
+├── infrastructure/
+│   ├── repository.py         # 리포지토리 구현
+│   └── event_handlers.py     # 인프라 이벤트 핸들러
+├── interfaces/
+│   ├── rest_api.py           # REST API 인터페이스
+│   └── grpc_service.py       # gRPC 인터페이스
+└── tests/
+    └── unit/                 # 유닛 테스트
